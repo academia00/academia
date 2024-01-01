@@ -8,7 +8,7 @@ const CourseTwo = () => {
 
   useEffect(() => {
     axios
-      .get("https://giant-pig-shoulder-pads.cyclic.app/api/subject")
+      .get("https://tender-duck-pantsuit.cyclic.app/api/subject")
       .then((response) => {
         setRows(response.data);
         setLoading(false); // Set loading to false after data is fetched

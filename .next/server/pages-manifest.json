@@ -1,12 +1,7 @@
 {
-  "/_error": "pages/_error.js",
-  "/page-404": "pages/page-404.html",
   "/_app": "pages/_app.js",
-  "/page-contact": "pages/page-contact.html",
-  "/page-courses": "pages/page-courses.html",
-  "/page-team": "pages/page-team.html",
-  "/": "pages/index.html",
-  "/page-about": "pages/page-about.html",
+  "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/404": "pages/404.html"
+  "/page-team": "pages/page-team.js",
+  "/page-contact": "pages/page-contact.js"
 }

@@ -28,7 +28,7 @@ const ContactInner = () => {
           Swal.fire("Query Send..👍", "", "success");
 
           fetch(
-            "https://giant-pig-shoulder-pads.cyclic.app/api/studentenquiry",
+            "https://tender-duck-pantsuit.cyclic.app/api/studentenquiry",
             {
               method: "POST",
               headers: {
